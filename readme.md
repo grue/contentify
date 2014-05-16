@@ -90,5 +90,5 @@ My team and I at [OAuth.io](https://oauth.io) needed an efficient way for non-de
 
 License
 -------
-
+ 
 APACHE2 LICENSE
